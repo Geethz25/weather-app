@@ -10,3 +10,6 @@ Run `python main.py` to fetch and save current weather data.
 
 ## Usage
 Run `python main.py` to fetch and save current weather data.
+
+## Usage
+Run `python main.py` to fetch and save current weather data.
