@@ -4,3 +4,6 @@ Fetches current weather data from the Open-Meteo API and via web scraping (BBC W
 
 ## Usage
 Run `python main.py` to fetch and save current weather data.
+
+## Usage
+Run `python main.py` to fetch and save current weather data.
